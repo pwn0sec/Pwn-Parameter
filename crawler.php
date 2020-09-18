@@ -3,7 +3,7 @@
 /*  Use With CLI-PHP
 A Tool By Pwn0sec Community && Duck Research :) :D
 Changing Author Name Wont Make You One :)
-*/
+*/ 
 
 error_reporting(0);
 
