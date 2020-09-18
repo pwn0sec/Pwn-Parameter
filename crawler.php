@@ -21,7 +21,7 @@ $input = trim(fgets(STDIN, 1024));
 
 }
 
-
+ 
 	if (!file_exists("dom.php")) {
 		$get = @file_get_contents("https://gist.githubusercontent.com/andripwn/f2d99f6c9330f40174171e8109d342cc/raw/6bf8c5a6af79d2cbfa5e51e7cf91d7e7a37c7927/simple_html_dom.php");
 		@file_put_contents("dom.php", $get); // downloads dom.php file
