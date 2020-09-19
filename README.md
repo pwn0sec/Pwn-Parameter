@@ -8,4 +8,4 @@ php crawler.php -u yoururlhere.com
 ### Note
 Beware of Adding http:// Before the url or it wont work :) ^_^
 
-a
+addsecc
